@@ -21,6 +21,10 @@ body {
     margin: 0 auto;
 }
 
+section {
+    overflow-x: hidden;
+}
+
 /* HEADER */
 
 header {
